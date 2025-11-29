@@ -4,6 +4,10 @@
 
 ## 🧠 Sobre mí
 - 🎓 Estudiante / carrera de Desarrollo y Gestion de Software
+## 🚀 Proyectos
+
+### 📌 Laboratorio 1 
+[Ver repositorio](https://github.com/martinez066004-byte/laboratorio-practico-1)
 ---
 <!--
 **martinez066004-byte/martinez066004-byte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile 
